@@ -1,0 +1,40 @@
+{
+    "photos":[
+        {
+            "id":1,
+            "username":"yusufahmad123",
+            "user_avatar":"https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+            "image":"https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+            "caption":"#photo #photographer #editing"
+        },
+        {
+            "id":2,
+            "username":"krishkashyap007",
+            "user_avatar":"https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "image":"https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "caption":"#bodybuilder #gym "
+        },
+        {
+            "id":3,
+            "username":"riteshshankar",
+            "user_avatar":"https://i.pinimg.com/originals/2b/a2/45/2ba2455ca817f7659e9ebfe9d494c5db.jpg",
+            "image":"https://i.pinimg.com/originals/2b/a2/45/2ba2455ca817f7659e9ebfe9d494c5db.jpg",
+            "caption":"#lodu #chodu #bhand"
+        },
+        {
+            "id":4,
+            "username":"sumitjangid",
+            "user_avatar":"https://www.goodmorningimagesdownload.com/wp-content/uploads/2021/07/1080p-New-Cool-Whatsapp-Dp-Profile-Images-pictures-hd-1-300x300.jpg",
+            "image":"https://www.goodmorningimagesdownload.com/wp-content/uploads/2021/07/1080p-New-Cool-Whatsapp-Dp-Profile-Images-pictures-hd-1-300x300.jpg",
+            "caption":"#sumit #sumit #sumit"
+        },
+        {
+            "id":5,
+            "username":"sharmaji318",
+            "user_avatar":"https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "image":"https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "caption":"#coder #developer"
+        }
+        
+    ]
+}
